@@ -9,7 +9,7 @@
 /* Theme default */
 body {
   font-family: 'Helvetica Neue', arial, sans-serif;
-  color: #494d55;
+  color: #1c1c1c;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -19,7 +19,7 @@ p {
   line-height: 1.5;
 }
 a {
-  color: #3aa7aa;
+  color: #006ade;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -27,7 +27,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #339597;
+  color: ##006abc;
 }
 a:active {
   text-decoration: none;
@@ -56,8 +56,8 @@ a.btn-cta {
   padding: 10px 30px;
 }
 .btn-primary {
-  background: #40babd;
-  border: 1px solid #40babd;
+  background: #006aa8;
+  border: 1px solid #006aa8;
   color: #fff;
 }
 .btn-primary:hover,
@@ -65,9 +65,9 @@ a.btn-cta {
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary.hover {
-  background: #3aa7aa;
+  background: #006aa8;
   color: #fff;
-  border: 1px solid #3aa7aa;
+  border: 1px solid #006aa8;
 }
 .carousel-fade .carousel-inner .item {
   transition-property: opacity;
@@ -105,7 +105,7 @@ a.btn-cta {
   margin-right: 5px;
 }
 .carousel-indicators li.active {
-  background-color: #40babd;
+  background-color: #006aa8;
   width: 11px;
   height: 11px;
   margin: 0;
@@ -129,14 +129,14 @@ a.btn-cta {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
 }
 .header.header-scrolled a {
-  color: #494d55;
+  color: #1c1c1c;
 }
 .header.header-scrolled .logo {
-  color: #40babd;
+  color: #006aa8;
   padding-top: 12px;
 }
 .header.header-scrolled .logo .logo-icon-wrapper {
-  background: #40babd;
+  background: transparent;
   width: 40px;
   height: 40px;
   -webkit-border-radius: 50%;
@@ -159,7 +159,7 @@ a.btn-cta {
 }
 .header.header-scrolled .main-nav .nav .nav-item.active a {
   color: #494d55;
-  border-bottom: 4px solid #40babd;
+  border-bottom: 4px solid #006aa8;
 }
 .header a {
   color: #fff;
@@ -255,10 +255,10 @@ a.btn-cta {
   padding: 15px 0;
 }
 .footer a {
-  color: #40babd;
+  color: #006aa8;
 }
 .footer .fa-heart {
-  color: #EA5395;
+  color: #006aa8;
 }
 /* ======= Hero Section ======= */
 .hero-section {
@@ -373,7 +373,7 @@ a.btn-cta {
   margin-right: 0;
 }
 .testimonials {
-  background: #40babd;
+  background: #006aa8;
 }
 .testimonials-inner {
   padding: 60px 30px;
@@ -421,7 +421,7 @@ a.btn-cta {
 }
 /* ======= Testimonials Section ======= */
 .testimonials-section {
-  background: #40babd url('../images/map.png') no-repeat center center;
+  background: #006aa8 url('../images/map.png') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -534,7 +534,7 @@ a.btn-cta {
   margin-right: 5px;
 }
 .feature-nav > li.active > a {
-  color: #40babd;
+  color: #006aa8;
   background: none;
   padding: 8px 0;
 }
@@ -545,7 +545,7 @@ a.btn-cta {
 }
 .feature-nav > li > a:hover {
   background: none;
-  color: #40babd;
+  color: #006aa8;
 }
 /* ======= Pricing Section ======= */
 .pricing-section {
@@ -583,7 +583,7 @@ a.btn-cta {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #40babd;
+  background: #006aa8;
   min-height: 390px;
 }
 .pricing-wrapper .item-inner a {
@@ -676,7 +676,7 @@ a.btn-cta {
 .team-section .member-name {
   font-size: 18px;
   font-weight: 700;
-  color: #40babd;
+  color: #006aa8;
 }
 .team-section .member-title {
   font-size: 16px;
@@ -700,7 +700,7 @@ a.btn-cta {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #40babd;
+  background: #006aa8;
   padding-top: 4px;
   color: #fff;
 }
@@ -777,11 +777,11 @@ a.btn-cta {
     z-index: 40;
   }
   .header .main-nav .navbar-collapse .nav-item.active a {
-    color: #40babd;
+    color: #006aa8;
   }
   .header.header-scrolled .main-nav .navbar-collapse .nav-item.active a {
     border: none;
-    color: #40babd;
+    color: #006aa8;
   }
   .main-nav .navbar-collapse .nav-item {
     margin-right: 0;
